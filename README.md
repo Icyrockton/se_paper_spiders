@@ -2,7 +2,7 @@
 
 crawl ICSE,FSE,ASE,ISSTA 2022 paper list,and save as xlsx
 
-![screenshot](https://github.com/Icyrockton/paper_spiders/blob/master/imgs/screen_shots.png)
+![screenshot](https://github.com/Icyrockton/se_paper_spiders/tree/master/imgs/screen_shots.png)
 
 ### Installation
 ```shell
